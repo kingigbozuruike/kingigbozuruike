@@ -7,7 +7,7 @@ I'm a Software Engineer currently learning Cloud Engineering @AltSchool Africa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I dream to work for Microsoft. Yes Microsoft, not Google. So Microsoft, if you are seeing this, feel free to reach out to me for an internship. I would love that. 
+- 💡 Fun fact: I dream to work for Microsoft. So Microsoft, if you are seeing this, feel free to reach out to me for an internship. I would love that. Google's still cool though. 
 - 🧨I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning AWS, GCP and Azure.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
