@@ -10,7 +10,7 @@ I'm a Computer Science student at Grambling State University currently looking f
 - 🌱 I’m currently learning Python, specifically mastering Data Structures & Algorithms.
 - 😊 I’m looking for help with open source projects, hackathons, and internships.
 - 💼 Job interests: Software Engineer (Intern level).
-- 📫 You can [view my resume]() and contact me by emailing kingigbozuruike@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1rW8RgYygG2-B3KdCQ41-k-aoicyp2Kgd/view?usp=sharing) and contact me by emailing kingigbozuruike@gmail.com.
 
 ---
 
