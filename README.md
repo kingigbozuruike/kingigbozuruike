@@ -1,14 +1,14 @@
 # Hello there; welcome 👋🏾
 
-I'm a Computer Science student at Grambling State University currently looking for interships opportunities.
+I'm a Computer Science student at Grambling State University.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I love music. I play three musical instruments: piano, bass guitar and acoustic guitar! 
 - 🧨I'm currently studying at [Grambling State University](https://gram.edu) Class of 2027.
-- 🌱 I’m currently learning Python, specifically mastering Data Structures & Algorithms.
-- 😊 I’m looking for help with open source projects, hackathons, and internships.
+- 🌱 I’m currently learning everything.
+- 😊 Open to internship opportunities.
 - 💼 Job interests: Software Engineer (Intern level).
 - 📫 You can contact me by emailing kingigbozuruike@gmail.com.
 
